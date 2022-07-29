@@ -9,6 +9,7 @@ The following steps show how the database created for this project.
 * For window installation, press on XAMPP.
 * Choose Which version suit your PC.
 * casually install XAMPP.
+
 After that in order to use database you should place inside `C:\xampp\htdocs`.
 ## Using the Function Get 
 By using HTML and CSS a webpage has been designed to have one input and a button. The following is the code for HTML 
