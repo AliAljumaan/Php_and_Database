@@ -12,7 +12,7 @@ The following steps show how the database created for this project.
 
 After that in order to use database you should place inside `C:\xampp\htdocs`.
 ## Using the Function Get 
-By using HTML and CSS a webpage has been designed to have one input and a button. The following is the code for HTML 
+By using HTML and CSS code a webpage has been designed to have one input and a button. The following is the code for HTML 
 ```
 <html>
 <title></title>
