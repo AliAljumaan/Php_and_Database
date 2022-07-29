@@ -72,7 +72,7 @@ button:hover {
     text-align: center;
   }
 ```
-Once the interface of the webpage has been created. In the HTML file, PHP code could be created to take `Svalue`as an input and present it to the user using `GET`. 
+Once the interface of the webpage has been created.a PHP code could be created to take `Svalue`as an input and present it to the user using `GET` inside the HTML file. 
 ```
         <?php
         ECHO $_GET['Svalue'];
@@ -110,6 +110,8 @@ if($conn->connect_error){
 ?>
 ```
 The final result
+
+
 ![image](https://user-images.githubusercontent.com/108624020/181782365-72e07d90-de0c-4687-a39b-a6e16cd55b67.png)
 
 
